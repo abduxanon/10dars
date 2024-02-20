@@ -1,0 +1,948 @@
+.ofshi {
+  /* Homepage */
+  position: relative;
+  width: 1640px;
+  height: 6726px;
+  background: rgb(255, 255, 255);
+}
+header {
+  .header-container {
+    width: 1440px;
+    height: 1007px;
+    left: 100px;
+    right: 0;
+    margin-top: 400px;
+  }
+  .logo1 {
+    /* Logo */
+    position: absolute;
+    width: 53px;
+    height: 33px;
+    left: 106px;
+    right: 1291px;
+    top: 466px;
+    bottom: 5627px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .nav_list {
+    display: flex;
+    // justify-content: center;
+    // align-items: center;
+    margin-top: 100px;
+    margin-left: 900px;
+    gap: 40px;
+  }
+  .nav_item {
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  .nav_link {
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .nav_link1 {
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 33px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .header-text {
+    /* We Create Story With Photo */
+    position: absolute;
+    width: 483px;
+    height: 174px;
+    left: 136px;
+    right: 861px;
+    top: 679px;
+    bottom: 5273px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 87px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .rectangle1 {
+    /* Vector 1 */
+    position: absolute;
+    width: 183.5px;
+    height: 0;
+    left: 136px;
+    top: 882px;
+    border: 1px solid rgb(0, 0, 0);
+  }
+  .header-text-p {
+    position: absolute;
+    width: 494px;
+    height: 103px;
+    left: 136px;
+    right: 850px;
+    top: 931px;
+    bottom: 5092px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .btn {
+    /* Rectangle 2 */
+    position: absolute;
+    width: 193px;
+    height: 78px;
+    left: 136px;
+    right: -96px;
+    top: 1070px;
+    bottom: -690px;
+    border-radius: 10px;
+
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+    background: rgb(96, 199, 191);
+  }
+  .strelka {
+    /* Work */
+    position: absolute;
+    left: 44px;
+    top: 18px;
+  }
+  .yangi {
+    position: absolute;
+    left: 780px;
+    right: 119px;
+    top: 624px;
+    bottom: 4967px;
+  }
+  .rectangle2 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 354px;
+    height: 140px;
+    left: 136px;
+    right: 990px;
+    top: 1303px;
+    bottom: 4653px;
+    background: rgb(42, 42, 42);
+  }
+  .img11 {
+    /* Group 5 */
+    position: absolute;
+    width: 156px;
+    height: 78px;
+    left: 226px;
+    right: 1138px;
+    top: 1334px;
+    bottom: 4684px;
+  }
+  .rectangle3 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 454px;
+    height: 140px;
+    left: 566px;
+    right: 990px;
+    top: 1303px;
+    bottom: 4653px;
+    background: rgb(42, 42, 42);
+  }
+  .img22 {
+    /* Group 5 */
+
+    position: absolute;
+    width: 236px;
+    height: 78px;
+    left: 666px;
+    right: 1138px;
+    top: 1334px;
+    bottom: 4684px;
+  }
+  .rectangle4 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 194px;
+    height: 140px;
+    left: 1206px;
+    right: 990px;
+    top: 1303px;
+    bottom: 4653px;
+    background: rgb(42, 42, 42);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+    background: rgb(96, 199, 191);
+  }
+  .img33 {
+    /* Group 5 */
+    position: absolute;
+    width: 116px;
+    height: 78px;
+    left: 1236px;
+    right: 2138px;
+    top: 1334px;
+    bottom: 4684px;
+  }
+}
+
+.main {
+  .kulrang1 {
+    /* Ef77BrpFT6I */
+    position: absolute;
+    width: 428px;
+    height: 186px;
+    left: 136px;
+    right: 916px;
+    top: 1682px;
+    bottom: 4258px;
+  }
+  .rectangle7 {
+    /* Rectangle 7 */
+    position: absolute;
+    width: 267px;
+    height: 40px;
+    left: 362px;
+    right: 811px;
+    top: 1731px;
+    bottom: 4345px;
+    background: rgba(96, 199, 191, 0.5);
+  }
+  .kulrang2 {
+    /* Ef77BrpFT6I */
+    position: absolute;
+    width: 428px;
+    height: 186px;
+    left: 186px;
+    right: 916px;
+    top: 1922px;
+    bottom: 4258px;
+  }
+  .rectangle8 {
+    /* Rectangle 7 */
+    position: absolute;
+    width: 267px;
+    height: 60px;
+    left: 132px;
+    right: 811px;
+    top: 2071px;
+    bottom: 4345px;
+    background: rgba(96, 199, 191, 0.5);
+  }
+  .h2-text {
+    /* Our Services Are Good For Any Price */
+    position: absolute;
+    width: 616px;
+    height: 174px;
+    left: 750px;
+    right: 74px;
+    top: 1650px;
+    bottom: 4265px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 87px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .p1-text {
+    position: absolute;
+    width: 577px;
+    height: 153px;
+    left: 750px;
+    right: 113px;
+    top: 1902px;
+    bottom: 4071px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .h2-text2 {
+    /* Our Satisfied Customer */
+    position: absolute;
+    width: 616px;
+    height: 204px;
+    left: 412px;
+    right: 412px;
+    top: 2338px;
+    bottom: 3584px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 68px;
+    font-weight: 700;
+    line-height: 102px;
+    letter-spacing: 0%;
+    text-align: center;
+  }
+  .san1 {
+    /* Rectangle 8 */
+    position: absolute;
+    width: 1248px;
+    height: 445px;
+    left: 96px;
+    right: 96px;
+    top: 2652px;
+    bottom: 3049px;
+    border-radius: 10px;
+    background: rgb(247, 247, 247);
+  }
+  .kulrang3 {
+    /* Rectangle 9 */
+    position: absolute;
+    width: 349px;
+    height: 349px;
+    left: 42px;
+    right: 959px;
+    top: 50px;
+    bottom: 3097px;
+  }
+  .h4-text {
+    /* San Anderson */
+    position: absolute;
+    width: 616px;
+    height: 72px;
+    left: 496px;
+    right: 268px;
+    top: 66px;
+    bottom: 3338px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .p-text3 {
+    position: absolute;
+    width: 638px;
+    height: 153px;
+    left: 476px;
+    right: 246px;
+    top: 158px;
+    bottom: 3175px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .rectangle9 {
+    /* Rectangle 10 */
+    position: absolute;
+    width: 267px;
+    height: 32px;
+    left: 155px;
+    right: 934px;
+    top: 380px;
+    bottom: 3081px;
+    background: rgba(96, 199, 191, 0.5);
+  }
+  .san2 {
+    /* Rectangle 8 */
+    position: absolute;
+    width: 1248px;
+    height: 445px;
+    left: 96px;
+    right: 96px;
+    top: 3202px;
+    bottom: 3049px;
+    border-radius: 10px;
+    background: rgb(247, 247, 247);
+  }
+  .kulrang4 {
+    /* Rectangle 9 */
+    position: absolute;
+    width: 349px;
+    height: 349px;
+    left: 42px;
+    right: 959px;
+    top: 50px;
+    bottom: 3097px;
+  }
+  .h4-text1 {
+    /* San Anderson */
+    position: absolute;
+    width: 616px;
+    height: 72px;
+    left: 496px;
+    right: 268px;
+    top: 66px;
+    bottom: 3338px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .p-text5 {
+    position: absolute;
+    width: 638px;
+    height: 153px;
+    left: 476px;
+    right: 246px;
+    top: 158px;
+    bottom: 3175px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .rectangle10 {
+    /* Rectangle 10 */
+    position: absolute;
+    width: 267px;
+    height: 32px;
+    left: 155px;
+    right: 934px;
+    top: 380px;
+    bottom: 3081px;
+    background: rgba(96, 199, 191, 0.5);
+  }
+  .san3 {
+    /* Rectangle 8 */
+    position: absolute;
+    width: 1248px;
+    height: 445px;
+    left: 96px;
+    right: 96px;
+    top: 3752px;
+    bottom: 3049px;
+    border-radius: 10px;
+    background: rgb(247, 247, 247);
+  }
+  .kulrang5 {
+    /* Rectangle 9 */
+    position: absolute;
+    width: 349px;
+    height: 349px;
+    left: 42px;
+    right: 959px;
+    top: 50px;
+    bottom: 3097px;
+  }
+  .h4-text2 {
+    /* San Anderson */
+    position: absolute;
+    width: 616px;
+    height: 72px;
+    left: 496px;
+    right: 268px;
+    top: 66px;
+    bottom: 3338px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .p-text6 {
+    position: absolute;
+    width: 638px;
+    height: 153px;
+    left: 476px;
+    right: 246px;
+    top: 158px;
+    bottom: 3175px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .rectangle11 {
+    /* Rectangle 10 */
+    position: absolute;
+    width: 267px;
+    height: 32px;
+    left: 155px;
+    right: 934px;
+    top: 380px;
+    bottom: 3081px;
+    background: rgba(96, 199, 191, 0.5);
+  }
+  .our {
+    /* Our Last Article */
+    position: absolute;
+    width: 300px;
+    height: 204px;
+    left: 96px;
+    right: 1044px;
+    top: 4356px;
+    bottom: 1606px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 68px;
+    font-weight: 700;
+    line-height: 102px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .our-text-p {
+    position: absolute;
+    width: 521px;
+    height: 170px;
+    left: 516px;
+    right: 403px;
+    top: 4386px;
+    bottom: 1616px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .btn2 {
+    /* Rectangle 2 */
+    position: absolute;
+    width: 163px;
+    height: 78px;
+    left: 1148px;
+    right: -1148px;
+    top: 4391px;
+    bottom: -3991px;
+    border-radius: 10px;
+
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+    background: rgb(96, 199, 191);
+  }
+  .strelka2 {
+    /* Work */
+    position: absolute;
+    left: 40px;
+    top: 18px;
+  }
+  .kularang6 {
+    /* Rectangle 17 */
+    position: absolute;
+    width: 436px;
+    height: 301px;
+    left: 96px;
+    right: 908px;
+    top: 4696px;
+    bottom: 1214px;
+  }
+  .kularang7 {
+    /* Rectangle 17 */
+    position: absolute;
+    width: 436px;
+    height: 301px;
+    left: 606px;
+    right: 908px;
+    top: 4696px;
+    bottom: 1214px;
+  }
+  .kularang8 {
+    /* Rectangle 17 */
+    position: absolute;
+    width: 266px;
+    height: 301px;
+    left: 1126px;
+    right: 908px;
+    top: 4696px;
+    bottom: 1214px;
+  }
+  .our5 {
+    /* 18 October 2021 - Miche */
+    position: absolute;
+    width: 366px;
+    height: 45px;
+    left: 100px;
+    right: 978px;
+    top: 5038px;
+    bottom: 1143px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .our6 {
+    /* 18 October 2021 - Miche */
+    position: absolute;
+    width: 366px;
+    height: 45px;
+    left: 606px;
+    right: 978px;
+    top: 5038px;
+    bottom: 1143px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .our7 {
+    /* 18 October 2021 - Miche */
+    position: absolute;
+    width: 866px;
+    height: 45px;
+    left: 1116px;
+    right: 978px;
+    top: 5038px;
+    bottom: 1143px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .our-text5 {
+    position: absolute;
+    width: 436px;
+    height: 96px;
+    left: 96px;
+    right: 908px;
+    top: 5109px;
+    bottom: 1021px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .our-text6 {
+    position: absolute;
+    width: 436px;
+    height: 96px;
+    left: 606px;
+    right: 908px;
+    top: 5109px;
+    bottom: 1021px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .our-text7 {
+    position: absolute;
+    width: 436px;
+    height: 96px;
+    left: 1096px;
+    right: 908px;
+    top: 5109px;
+    bottom: 1021px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .our-img6 {
+    /* Read more */
+    position: absolute;
+    width: 203px;
+    height: 45px;
+    left: 96px;
+    right: -96px;
+    top: 5251px;
+    bottom: -4731px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .our-img7 {
+    /* Read more */
+    position: absolute;
+    width: 203px;
+    height: 45px;
+    left: 596px;
+    right: -96px;
+    top: 5251px;
+    bottom: -4731px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .our-img8 {
+    /* Read more */
+    position: absolute;
+    width: 203px;
+    height: 45px;
+    left: 1096px;
+    right: -96px;
+    top: 5251px;
+    bottom: -4731px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+}
+
+footer {
+  .footer-container {
+    width: 1440px;
+    height: 1007px;
+    left: 100px;
+    right: 0;
+    margin-top: 4200px;
+    background: rgb(42, 42, 42);
+  }
+  .logo14 {
+    /* Logo */
+    position: absolute;
+    width: 115px;
+    height: 72px;
+    left: 99px;
+    right: 1226px;
+    top: 5726px;
+    bottom: 588px;
+
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 72px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .h4-12 {
+    /* Ready for your journey? */
+    position: absolute;
+    width: 341px;
+    height: 46px;
+    left: 743px;
+    right: 356px;
+    top: 5730px;
+    bottom: 607px;
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .rectangle-30 {
+    /* Rectangle 2 */
+    position: absolute;
+    width: 236px;
+    height: 78px;
+    left: 1105px;
+    right: -1105px;
+    top: 5717px;
+    bottom: -5057px;
+    border-radius: 10px;
+
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+    background: rgb(96, 199, 191);
+  }
+  .strelka4 {
+    /* Work */
+    position: absolute;
+    left: 40px;
+    top: 18px;
+  }
+  .rectangle-31 {
+    /* Vector 4 */
+    position: absolute;
+    width: 1243px;
+    height: 0;
+    left: -1001px;
+    top: 180.5px;
+    border: 2px solid rgb(245, 245, 245);
+  }
+  .h19 {
+    /* Subscribe For Any Kind :) */
+    position: absolute;
+    width: 341px;
+    height: 118px;
+    left: -997px;
+    right: 1002px;
+    top: 261px;
+    bottom: 347px;
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .foter-text {
+    /* Enter Your Email */
+    position: absolute;
+    width: 341px;
+    height: 46px;
+    left: -997px;
+    right: 1002px;
+    top: 460px;
+    bottom: 250px;
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .rectangle32 {
+    /* Vector 5 */
+    position: absolute;
+    width: 299px;
+    height: 0;
+    left: -997px;
+    top: 524px;
+    border: 2px solid rgb(245, 245, 245);
+  }
+  .strelka121 {
+    /* Group 18 */
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: -681px;
+    top: 457px;
+  }
+  .tu {
+    /* Group 15 */
+    position: absolute;
+    width: 168px;
+    height: 301px;
+    left: -509px;
+    right: 603px;
+    top: 252px;
+    bottom: 153px;
+    // background-color: rgb(196, 210, 210);
+  }
+  .rp1 {
+    /* Photo Services */
+    position: absolute;
+    display: flex;
+    width: 168px;
+    height: 35px;
+    left: 66px;
+    // right: -669px;
+    // top: 5272px;
+    // bottom: -5006px;
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 33px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .rp-item {
+    display: flex;
+    margin-top: 53px;
+  }
+  .tu2 {
+    /* Group 15 */
+    position: absolute;
+    width: 168px;
+    height: 301px;
+    left: -439px;
+    right: 603px;
+    top: 252px;
+    bottom: 153px;
+    // background-color: rgb(196, 210, 210);
+  }
+  .rp2 {
+    /* Photo Services */
+    position: absolute;
+    display: flex;
+    width: 168px;
+    height: 35px;
+    left: 236px;
+    // right: -669px;
+    // top: 5272px;
+    // bottom: -5006px;
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 33px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .rp2-item {
+    display: flex;
+    margin-top: 53px;
+  }
+  .tu3 {
+    /* Group 15 */
+    position: absolute;
+    width: 168px;
+    height: 301px;
+    left: -239px;
+    right: 603px;
+    top: 252px;
+    bottom: 153px;
+    // background-color: rgb(196, 210, 210);
+  }
+  .rp3 {
+    /* Photo Services */
+    position: absolute;
+    display: flex;
+    width: 168px;
+    height: 35px;
+    left: 236px;
+    // right: -669px;
+    // top: 5272px;
+    // bottom: -5006px;
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 33px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .rp3-item {
+    display: flex;
+    margin-top: 53px;
+  }
+}
